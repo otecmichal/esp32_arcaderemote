@@ -1,6 +1,6 @@
 # ESP32 Arcade Remote Control
 
-!(blender screenshot)[https://github.com/otecmichal/esp32_arcaderemote/img/blender.png]
+![blender screenshot](https://github.com/otecmichal/esp32_arcaderemote/img/blender.png)
 
 ## Overview
 
